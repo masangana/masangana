@@ -4,7 +4,7 @@
 
 <img align="letf" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masangana&theme=tokyonight&layout=compact" />
 
-<img align="letf" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=masangana&theme=tokyonight&layout=compact" />
+<img align="letf" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=masangana&repo=github-readme-stats&theme=tokyonight&layout=compact" />
 
 ## My stack ✔︎
 
