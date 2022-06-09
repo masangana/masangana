@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 👨‍💻 I spend most of my time learning to code by watching tutorials and reading materials about React, Sass,
-and JavaScript. I started my coding journey in March 2022. Currently, I am studying as a remote student
+and JavaScript. I started my coding journey in 2022. Currently, I am studying as a remote student
 at Microverse.
 
 🥅 My main goal after completing the program is to be able to secure a full stack web developer job position,
