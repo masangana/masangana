@@ -1,4 +1,12 @@
 ### Hi there 👋
+
+👨‍💻 I spend most of my time learning to code by watching tutorials and reading materials about React, Sass,
+and JavaScript. I started my coding journey in March 2022. Currently, I am studying as a remote student
+at Microverse.
+
+🥅 My main goal after completing the program is to be able to secure a full stack web developer job position,
+as well as collaborate and contribute to open source projects, and assist other students in Microverse as a
+volunteer mentor.
  
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=masangana&theme=tokyonight" />
 
